@@ -9,8 +9,9 @@ java
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/tokenizer/`
-* `run the file Pubtokenizer.java in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/tokenizer.git`
+* `run the file Pubtokenizer.java in any java IDE`
 
 ### To Run In Linux/Unix Command Line:
 
